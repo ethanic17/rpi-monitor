@@ -7,6 +7,7 @@ Raspberry Pi Monitor (RPi Monitor) is a React & ExpressJS application that runs 
 
 
 ## ✅Prerequisites:
+- Have [Node.JS](https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp) Installed 
 - Have MongoDB installed (Raspberry Pis use an [older version](https://www.mongodb.com/developer/products/mongodb/mongodb-on-raspberry-pi/)
  that supports ARM)
 - Have NeoFetch installed (```sudo apt-get install neofetch```) 
